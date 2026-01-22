@@ -4,10 +4,11 @@
   "update_url": "https://drive.google.com/file/d/YOUR_FILE_ID/view",
   "update_message": "Phiên bản mới đã có!\n- Tính năng A\n- Sửa lỗi B",
   "force_update": false,
-  "kill_old_versions": [1.5.0],
+  "kill_old_versions": [],
   "announcement": ""
 
 }
+
 
 
 
