@@ -1,11 +1,12 @@
 {
-  "current_version": "2.0.0",
+  "current_version": "1.5.0",
   "min_version": "1.0.0",
   "update_url": "https://drive.google.com/file/d/YOUR_FILE_ID/view",
   "update_message": "Phiên bản mới đã có!\n- Tính năng A\n- Sửa lỗi B",
-  "force_update": true,
+  "force_update": false,
   "kill_old_versions": [],
   "announcement": ""
 
 }
+
 
