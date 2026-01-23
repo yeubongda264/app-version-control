@@ -1,22 +1,15 @@
 [
+  [
   {
-    "key": "2M0B-IBX1-FC90-2394",
-    "created_at": "2026-01-23T08:27:38.434913",
-    "expiry_date": "Vĩnh viễn",
+    "key": "6AXT-PNYY-R2YJ-0922",
+    "created_at": "2026-01-23T13:51:47.249190",
+    "expiry_date": "2026-02-22T13:51:47.248839",
     "machine_id": null,
     "activated_date": null,
     "note": "",
     "status": "Chưa kích hoạt"
-  },
-  {
-    "key": "MY3X-A5EL-D1MP-0843",
-    "created_at": "2026-01-23T01:07:36.127117",
-    "expiry_date": "2026-02-22T01:07:36.126798",
-    "machine_id": null,
-    "activated_date": null,
-    "note": "",
-    "status": "Chưa kích hoạt"
-  },
+  }
+]
   {
     "key": "CT48-YYU6-490M-0810",
     "created_at": "2026-01-24T11:30:43.668404",
@@ -27,3 +20,4 @@
     "status": "Chưa kích hoạt"
   }
 ]
+
