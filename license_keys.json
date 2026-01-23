@@ -1,5 +1,4 @@
 [
-  [
   {
     "key": "6AXT-PNYY-R2YJ-0922",
     "created_at": "2026-01-23T13:51:47.249190",
@@ -10,14 +9,3 @@
     "status": "Chưa kích hoạt"
   }
 ]
-  {
-    "key": "CT48-YYU6-490M-0810",
-    "created_at": "2026-01-24T11:30:43.668404",
-    "expiry_date": "2026-02-23T11:30:43.560454",
-    "machine_id": null,
-    "activated_date": null,
-    "note": "",
-    "status": "Chưa kích hoạt"
-  }
-]
-
