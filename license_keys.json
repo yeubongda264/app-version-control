@@ -7,5 +7,14 @@
     "activated_date": null,
     "note": "",
     "status": "Chưa kích hoạt"
+  },
+  {
+    "key": "X9WH-VODD-O60V-0872",
+    "created_at": "2026-01-24T16:43:48.116557",
+    "expiry_date": "Vĩnh viễn",
+    "machine_id": null,
+    "activated_date": null,
+    "note": "",
+    "status": "Chưa kích hoạt"
   }
 ]
