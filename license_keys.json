@@ -7,5 +7,14 @@
     "activated_date": "2026-01-24T18:27:12.473697",
     "note": "",
     "status": "Đã kích hoạt"
+  },
+  {
+    "key": "FDU6-ERPV-49RC-0852",
+    "created_at": "2026-01-24T19:22:29.858782",
+    "expiry_date": "2026-02-23T19:22:29.858513",
+    "machine_id": null,
+    "activated_date": null,
+    "note": "",
+    "status": "Chưa kích hoạt"
   }
 ]
